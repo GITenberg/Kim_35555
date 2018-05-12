@@ -1,0 +1,41 @@
+_repo: Kim_35555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: '"Kimball O''Hara grows up an orphan in the walled city of Lahore, India.
+  Deeply devoted to an old Tibetan lama but involved in a secret mission for the British,
+  Kim struggles to weave the strands of his life into a single pattern. Charged with
+  action and suspense, yet profoundly spiritual, Kim vividly expresses the sounds
+  and smells, colors and characters, opulence and squalor of complex, contradictory
+  India under British rule."--Publisher description.'
+gutenberg_issued: '2011-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Irish -- India -- Fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Lamas -- Fiction'
+- !lcsh 'India -- Fiction'
+title: Kim
+url: http://www.gutenberg.org/ebooks/35555
